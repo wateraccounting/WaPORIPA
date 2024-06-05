@@ -22,7 +22,7 @@ The objective of this repository is to calculate irrigation performance indicato
 ![image](https://github.com/wateraccounting/WaPORIPA/blob/main/images/WaPORIPA%20%E2%80%93%20github%20repo%20structure.jpg)
 
 ## Irrigation performance indicators 
-The following performance indicators are included in the repository (see for more information [Chukalla et al 2022](https://hess.copernicus.org/articles/26/2759/2022/hess-26-2759-2022.html))
+The following performance indicators are included in the repository (see for more information [Chukalla et al., 2022](https://hess.copernicus.org/articles/26/2759/2022/hess-26-2759-2022.html))
 - Water consumption (AETI)
 - Dry biomass production and yield (requires crop type information)
 - Water Productivity (biomass and/or crop)
