@@ -7,7 +7,7 @@
 * Bich Tran,
 * Marloes Mul
    
-(c) IHE Delft Institute for Water Education, June 2024
+© IHE Delft Institute for Water Education, June 2024
 
 Note: The script is also used in on-campus short course on ['Remote Sensing for Agricultural Water Management'](https://www.un-ihe.org/courses/on-campus/remote-sensing-agricultural-water-management) organised annually by IHE Delft Institute for Water Education. Next edition: March 2025. 
 #
