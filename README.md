@@ -34,7 +34,7 @@ The following performance indicators are included in the repository (see for mor
 Over the coming period we will add more calculations, such as blue ET, crop water requirement (CWR) and adequacy compared to CWR. In addition, we will update the crop and yield gap script from WaPORWP. 
 
 ## Requirements
-All scripts can be run in Colab or on a local computer (see for example of installation instructions of [mamba](https://courses.gisopencourseware.org/mod/book/view.php?id=430&chapterid=1427) with lots of interesting educational materials. For a good understanding of the scripts presented here, we advise to have followed (and completed our open access course on ['Python for Geospatial analyses using WaPOR data'](https://ocw.un-ihe.org/user/index.php?id=272))
+All scripts can be run in Colab or on a local computer (see for example of [installation instructions for mamba](https://courses.gisopencourseware.org/mod/book/view.php?id=430&chapterid=1427) with lots of interesting educational materials. For a good understanding of the scripts presented here, we advise to have followed (and completed our open access course on ['Python for Geospatial analyses using WaPOR data'](https://ocw.un-ihe.org/user/index.php?id=272))
 ![image](https://github.com/wateraccounting/WaPORMOOC/blob/main/images/Banner%2Cpython%2CWaPOR.jpeg)
 
 ## Acknowledgements
