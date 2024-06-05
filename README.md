@@ -16,7 +16,7 @@ The objective of this repository is to calculate irrigation performance indicato
 - Module 1: Calculate seasonal maps and resample WaPOR climate data (RET & PCP)
 - Module 2a: Seasonal aggregation of WaPORv3 AETI, T and NPP
 - Module 2b: Seasonal aggregation of pyWaPOR outputs AETI, T and NPP (script also allows for exporting dekadal and monthly timeseries)
-- pre-Module 3: Clipping seasonal data to Area of Interest (AOI) (optional)
+- pre-Module 3: Clipping seasonal data to Area of Interest (AOI) (optional, but important for interpretation of IPA)
 - Module 3: Calculate yield, water consumption and irrigation performance indicators
   
 ![image](https://github.com/wateraccounting/WaPORIPA/blob/main/images/WaPORIPA%20%E2%80%93%20github%20repo%20structure.jpg)
@@ -30,6 +30,8 @@ The following performance indicators are included in the repository (see for mor
 - Beneficial Fraction
 - Uniformity
 - Relative water deficit
+
+To be able to interpret the analyses, it is important to have crop type information for the AOI
 
 Over the coming period we will add more calculations, such as blue ET, crop water requirement (CWR) and adequacy compared to CWR. In addition, we will update the crop and yield gap script from WaPORWP. 
 
