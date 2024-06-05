@@ -7,14 +7,29 @@
 * Solomon Seyoum,
 * Bich Tran
 
-The objective of this repository is to calculate irrigation performance assessment indicators using WaPOR data. It can accomodate two options for the water use and production data, the WaPOR version 3 data (downloaded using [Download_WaPORv3_data script](https://github.com/wateraccounting/WaPORMOOC/tree/main/1_WaPOR_download_colab) or data created using [pyWaPOR](https://bitbucket.org/cioapps/pywapor/src/master/). The scripts are updated from [WaPORWP](https://github.com/wateraccounting/WAPORWP) to allow for the use of WaPOR version 3 and pyWaPOR outputs. This repository consists of 5 modules:
+(c) IHE Delft, June 2024
+
+The objective of this repository is to calculate irrigation performance indicators using WaPOR data. It can accomodate two options for the water use and production data, the WaPOR version 3 data (downloaded using [Download_WaPORv3_data script](https://github.com/wateraccounting/WaPORMOOC/tree/main/1_WaPOR_download_colab) or data created using [pyWaPOR](https://bitbucket.org/cioapps/pywapor/src/master/). The scripts are updated from [WaPORWP](https://github.com/wateraccounting/WAPORWP) to allow for the use of WaPOR version 3 and pyWaPOR outputs. This repository consists of 5 modules:
+
 - Module 1: Calculate seasonal maps and resample WaPOR climate data (RET & PCP)
 - Module 2a: Seasonal aggregation of WaPORv3 AETI, T and NPP
 - Module 2b: Seasonal aggregation of pyWaPOR outputs AETI, T and NPP (script also allows for exporting dekadal and monthly timeseries)
 - pre-Module 3: Clipping seasonal data to Area of Interest (AOI) (optional)
-- Module 3: Calculate yield, water consumption and irrigation performance assessment indicators
-- 
+- Module 3: Calculate yield, water consumption and irrigation performance indicators
+  
 ![image](https://github.com/wateraccounting/WaPORIPA/blob/main/images/WaPORIPA%20%E2%80%93%20github%20repo%20structure.jpg)
+
+## Irrigation performance indicators 
+The following performance indicators are included in the repository (see for more information [Chukalla et al 2022](https://hess.copernicus.org/articles/26/2759/2022/hess-26-2759-2022.html))
+- Water consumption (AETI)
+- Dry biomass production and yield (requires crop type information)
+- Water Productivity (biomass and/or crop)
+- Adequacy compared to 95th percentile
+- Beneficial Fraction
+- Uniformity
+- Relative water deficit
+
+Over the coming period we will add more calculations, such as blue ET, crop water requirement (CWR) and adequacy compared to CWR. In addition, we will update the crop and yield gap script from WaPORWP. 
 
 This repository was developed as part of the [“Monitoring land and water productivity by Remote Sensing (WaPOR phase 2) project”](https://www.fao.org/in-action/remote-sensing-for-water-productivity/en/) led by FAO and funded by the Ministry of Foreign Affairs of the Netherlands. 
 
