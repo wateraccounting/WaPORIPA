@@ -9,7 +9,7 @@
    
 © IHE Delft Institute for Water Education, June 2024
 
-Note: The script is also used in on-campus short course on ['Remote Sensing for Agricultural Water Management'](https://www.un-ihe.org/courses/on-campus/remote-sensing-agricultural-water-management) organised annually by IHE Delft Institute for Water Education. Next edition: March 2025. 
+Note: The script is also used in on-campus short course on ['Remote Sensing for Agricultural Water Management'](https://www.un-ihe.org/courses/on-campus/remote-sensing-agricultural-water-management) organised annually by IHE Delft Institute for Water Education. Next edition: 3-14 March 2025. 
 #
 The objective of this repository is to calculate irrigation performance indicators using WaPOR data. It can accomodate two options for the water use and production data, the WaPOR version 3 data (downloaded using [Download_WaPORv3_data script](https://github.com/wateraccounting/WaPORMOOC/tree/main/1_WaPOR_download_colab) or data created using [pyWaPOR](https://bitbucket.org/cioapps/pywapor/src/master/). The scripts are updated from [WaPORWP](https://github.com/wateraccounting/WAPORWP) to allow for the use of WaPOR version 3 and pyWaPOR outputs. This repository consists of 5 modules:
 
