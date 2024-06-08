@@ -1,0 +1,9 @@
+Read me
+
+The python scripts found here are for the beta version of the WaPOR Irrigation Performance Assessment (WaPORIPA) repository. This is a basic repository that utilises seasonally aggregated WaPORv3 or pyWaPOR outputs to calculate:
+- Land and water productivity, which if crop type information is available can estimate crop yield
+- Irrigation performance indicators, including adequacy, beneficial fraction, equity, relative water deficit
+
+The water accounting team is working on expanding the analyses to include, which will be published in WaPORIPAv1:
+- water productivity and yield gap analyses
+- estimating crop water requirements and ETblue
