@@ -18,7 +18,7 @@ The objective of this repository is to calculate irrigation performance indicato
 - pre-Module 2: Clipping seasonal data to Area of Interest (AOI) (optional, but important for interpretation of IPA)
 - Module 2: Calculate yield, water productivity and irrigation performance indicators
   
-![image](https://github.com/wateraccounting/WaPORIPA/blob/main/images/WaPORIPA%20%E2%80%93%20github%20repo%20structure.jpg)
+![image](https://github.com/wateraccounting/WaPORIPA/blob/main/images/WaPORIPA_beta.jpg)
 
 ## Irrigation performance indicators 
 The following performance indicators are included in the repository (see for more information [Chukalla et al., 2022](https://hess.copernicus.org/articles/26/2759/2022/hess-26-2759-2022.html))
