@@ -24,15 +24,19 @@ The objective of this repository is to calculate irrigation performance indicato
 
 ## Irrigation performance indicators 
 The following performance indicators are included in the repository (see for more information [Chukalla et al., 2022](https://hess.copernicus.org/articles/26/2759/2022/hess-26-2759-2022.html))
+
+Land and water productivity
 - Water consumption (AETI)
 - Dry biomass production and yield (requires crop type information)
 - Water Productivity (biomass and/or crop)
+
+Irrigation performance indicators
 - Adequacy compared to 95th percentile
 - Beneficial Fraction
 - Uniformity
 - Relative water deficit
 
-To be able to interpret the analyses, it is important to have crop type information for the AOI.
+To be able to interpret the analyses, it is important to have crop type information for the AOI. See [WaPORMOOC repository](https://github.com/wateraccounting/WaPORMOOC/tree/main) for examples on how to do zonal statistics using crop type information. 
 
 We are working on developing more analyses which will be made available in a WaPORIPA version 1. This will include adding more calculations, such as blue ET, crop water requirement (CWR) and adequacy compared to CWR. In addition, we will update the crop and yield gap script from [WaPORWP](https://github.com/wateraccounting/WAPORWP). 
 
