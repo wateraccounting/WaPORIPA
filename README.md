@@ -1,4 +1,5 @@
 # <font color='#ff009a'> WaPORIPA: Standardized protocol for irrigation performance assessment using WaPOR data. </font>
+![img](https://github.com/wateraccounting/WaPORIPA/blob/main/images/Image2.png) 
 
 **Authors:** 
 * Abebe D. Chukalla (a.chukalla@un-ihe.org),
@@ -6,7 +7,8 @@
 * Solomon Seyoum,
 * Bich Tran,
 * Marloes Mul
-   
+  
+  
 © IHE Delft Institute for Water Education, June 2024
 
 Note: The script is also used in on-campus short course on ['Remote Sensing for Agricultural Water Management'](https://www.un-ihe.org/courses/on-campus/remote-sensing-agricultural-water-management) organised annually by IHE Delft Institute for Water Education. Next edition: 3-14 March 2025. 
@@ -18,7 +20,7 @@ The objective of this repository is to calculate irrigation performance indicato
 - pre-Module 2: Clipping seasonal data to Area of Interest (AOI) (optional, but important for interpretation of IPA)
 - Module 2: Calculate yield, water productivity and irrigation performance indicators
   
-![<img src="[image.png](https://github.com/wateraccounting/WaPORIPA/blob/main/images/WaPORIPA_beta.jpg)" width="50"/>](https://github.com/wateraccounting/WaPORIPA/blob/main/images/WaPORIPA_beta.jpg)
+![img](https://github.com/wateraccounting/WaPORIPA/blob/main/images/WaPORIPA_beta.jpg)
 
 ## Irrigation performance indicators 
 The following performance indicators are included in the repository (see for more information [Chukalla et al., 2022](https://hess.copernicus.org/articles/26/2759/2022/hess-26-2759-2022.html))
