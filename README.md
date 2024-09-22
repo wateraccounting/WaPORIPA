@@ -17,10 +17,12 @@ Note: The script is also used in on-campus short course on ['Remote Sensing for 
 #
 The objective of this repository is to calculate irrigation performance indicators using WaPOR data. It can accomodate two options for the water use and production data, the WaPOR version 3 data (downloaded using [Download_WaPORv3_data script](https://github.com/wateraccounting/WaPORMOOC/tree/main/1_WaPOR_download_colab) or data created using [pyWaPOR](https://bitbucket.org/cioapps/pywapor/src/master/). The scripts are updated from [WaPORWP](https://github.com/wateraccounting/WAPORWP) to allow for the use of WaPOR version 3 and pyWaPOR outputs. The current repository is a beta version which contains 4 modules:
 
-- Module 1a: Seasonal aggregation of WaPORv3 AETI, T and NPP
-- Module 1b: Seasonal aggregation of pyWaPOR outputs AETI, T and NPP (script also allows for exporting dekadal and monthly timeseries)
-- pre-Module 2: Clipping seasonal data to Area of Interest (AOI) (optional, but important for interpretation of IPA)
-- Module 2: Calculate yield, water productivity and irrigation performance indicators
+- Module 1a   :  Seasonal aggregation of WaPORv3 AETI, T and NPP, downloaded from WapOR platform
+- Module 1b   :  Seasonal aggregation of pyWaPOR outputs AETI, T and NPP (script also allows for exporting dekadal and monthly timeseries)
+- pre-Module 2:  Clipping: Clipping seasonal data to Area of Interest (AOI) (optional, but important for interpretation of IPA)
+- pre-Module 2:  Resampling Raster Layers (e.g., PCP and RET) to match spatiol resolution and coordinate reference system of a reference (e.g., AETI)
+- Module 3    :  Calculate yield, water productivity and irrigation performance indicators
+- Module 4    :  Calculate  productivity target and productivity gaps, and map bright spots
   
 ![img](https://github.com/wateraccounting/WaPORIPA/blob/main/images/WaPORIPA_beta.jpg)
 
