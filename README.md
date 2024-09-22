@@ -24,7 +24,7 @@ The objective of this repository is to calculate irrigation performance indicato
 - Module 3    :  Calculate yield, water productivity and irrigation performance indicators
 - Module 4    :  Calculate  productivity target and productivity gaps, and map bright spots
   
-![img](https://github.com/wateraccounting/WaPORIPA/blob/main/images/WaPORIPA_beta.jpg)
+![img](https://github.com/wateraccounting/WaPORIPA/blob/main/images/schematisation_WaPORIPA.PNG)
 
 ## Irrigation performance indicators 
 The following performance indicators are included in the repository (see for more information [Chukalla et al., 2022](https://hess.copernicus.org/articles/26/2759/2022/hess-26-2759-2022.html))
