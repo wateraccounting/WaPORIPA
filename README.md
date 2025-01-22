@@ -41,7 +41,7 @@ Irrigation performance indicators
 - Uniformity
 - Relative water deficit
 
-In addition, we will update the crop and yield gap script from [WaPORWP](https://github.com/wateraccounting/WAPORWP) has been updated (Module 4). 
+In addition, we have updated the crop and yield gap script from [WaPORWP](https://github.com/wateraccounting/WAPORWP) (Module 4). 
 
 To be able to interpret the analyses, it is important to have crop type information for the AOI. See [WaPORMOOC repository](https://github.com/wateraccounting/WaPORMOOC/tree/main) for examples on how to do zonal statistics using crop type information. 
 
