@@ -1,4 +1,4 @@
-# <font color='#ff009a'> WaPORIPA(beta): Standardized protocol for irrigation performance assessment using WaPOR data. </font>
+# <font color='#ff009a'> WaPORIPA version 1: Standardized protocol for irrigation performance assessment using WaPOR data. </font>
 ![img](https://github.com/wateraccounting/WaPORIPA/blob/main/images/Image2.png) 
 
 **Authors:** 
